@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TEE2DWHY
+- 👋 Hi, I’m @Tee_2d_why
 - 👀 I’m interested in web development and  Blockchain Development
 - 🌱 I’m currently learning Blockchain Dev
 - 💞️ I’m looking to collaborate on ...
