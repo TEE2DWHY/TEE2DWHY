@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/13fb766fd8ee3d6f9d1981053766b30a14a769d014a7a9c7e611fb465b19ccc0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6465762d666f756164" alt="dev-fouad" data-canonical-src="https://github-profile-trophy.vercel.app/?username=dev-fouad" style="max-width: 100%;">
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently learning <a href="https://github.com/TEE2DWHY/Blockchain-Dev"> working on a logisitic web application</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently learning <a href="https://github.com/TEE2DWHY/Blockchain-Dev"> working on a api for a educational brand</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Backend Developent</strong></p>
