@@ -9,9 +9,9 @@ A passionate fullstack engineer from Lagos, Nigeria.
 - ⚡ Fun fact: I love solving complex tech challenges and teaching others about blockchain.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olorunfemitayo/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tayo-olorunfemi-679836221)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/highzick3)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=github&logoColor=white)](https://codewithty.dev)
 
 ### Languages and Tools:
 <div>
