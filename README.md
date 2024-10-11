@@ -2,10 +2,10 @@
 
 A passionate fullstack engineer from Lagos, Nigeria.
 
-- 🔭 I’m currently working on [DVO (Blockchain Voting App)](https://your-project-link.com)
+- 🔭 I’m currently working on [DVO (Blockchain Voting App)](https://dvo.vote)
 - 🌱 I’m currently learning **Serverless Infrastructure and Event-based Architecture**
-- 👨‍💻 All of my projects are available at [https://github.com/your-github-username](https://github.com/your-github-username)
-- 📫 How to reach me: [olotayodev@gmail.com](mailto:olotayodev@gmail.com)
+- 👨‍💻 All of my projects are available at [https://github.com/your-github-username](https://github.com/TEE2DWHY)
+- 📫 How to reach me: [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)
 - ⚡ Fun fact: I love solving complex tech challenges and teaching others about blockchain.
 
 ### Connect with me:
@@ -24,6 +24,6 @@ A passionate fullstack engineer from Lagos, Nigeria.
 ![Next.js](https://cdn.iconscout.com/icon/free/png-256/next-js-1175270.png)
 
 ### Olorunfemi's GitHub Stats:
-![Olorunfemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Olorunfemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEE2DWHY&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEE2DWHY&layout=compact&theme=radical)
