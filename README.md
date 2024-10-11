@@ -26,4 +26,5 @@ A passionate fullstack engineer from Lagos, Nigeria.
 </div>
 
 ### Olorunfemi's GitHub Stats:
-![Top Langs](https://camo.githubusercontent.com/773325af0c01262b1fb1b1606182bb3a540dab5727d1ae06e3ca336b6061f06f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d65646963656d692673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEE2DWHY&layout=compact&theme=radical)
+
