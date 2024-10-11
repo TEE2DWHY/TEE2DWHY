@@ -23,6 +23,8 @@ A passionate fullstack engineer from Lagos, Nigeria.
     <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB" height="30" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521773-2945272.png" alt="TypeScript" height="30" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/next-js-1175270.png" alt="Next.js" height="30" />
+    <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="30"/>
+    <img src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" alt="Hardhat" height="30"/>
 </div>
 
 ### Olorunfemi's GitHub Stats:
