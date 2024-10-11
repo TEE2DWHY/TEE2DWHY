@@ -17,7 +17,7 @@ A passionate fullstack engineer from Lagos, Nigeria.
 <div>
     <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML5" height="30" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="CSS3" height="30" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/tailwindcss-1179528.png" alt="Tailwind CSS" height="30" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" height="30" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-1175109.png" alt="React" height="30" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-1-1174935.png" alt="Node.js" height="30" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB" height="30" />
