@@ -2,7 +2,7 @@
 
 A passionate fullstack engineer from Lagos, Nigeria.
 
-- 🔭 I’m currently working on [(Health-Care Based Solution App)]
+- 🔭 I’m currently working on a **Health-Care Based Solution App**
 - 🌱 I’m currently learning **Serverless Infrastructure and Event-based Architecture**
 - 👨‍💻 All of my projects are available at [https://github.com/TEE2DWHY](https://github.com/TEE2DWHY)
 - 📫 How to reach me: [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)
