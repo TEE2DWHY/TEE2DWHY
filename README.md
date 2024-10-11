@@ -6,7 +6,7 @@ A passionate fullstack engineer from Lagos, Nigeria.
 - 🌱 I’m currently learning **Serverless Infrastructure and Event-based Architecture**
 - 👨‍💻 All of my projects are available at [https://github.com/TEE2DWHY](https://github.com/TEE2DWHY)
 - 📫 How to reach me: [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)
-- ⚡ Fun fact: I love solving complex tech challenges and teaching others about blockchain.
+- ⚡ Fun fact: my favourite subject in school was chemistry and math, so i decided to be a programmer (analysis is everything😅).
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tayo-olorunfemi-679836221)
