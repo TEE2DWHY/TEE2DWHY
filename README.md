@@ -1,6 +1,6 @@
 # Hi 👋, I'm Olorunfemi Tayo
 
-A passionate fullstack engineer from Lagos, Nigeria.
+A passionate fullstack engineer and mobile app developer.
 
 - 🔭 I’m currently working on a **Health-Care Based Solution App**
 - 🌱 I’m currently learning **Serverless Infrastructure and Event-based Architecture**
