@@ -3,7 +3,7 @@
 I am a passionate fullstack and blockchain engineer.
 
 - 🔭 I’m currently working on a **Decentralized Voting App**
-- 🌱 I’m currently learning **Serverless Infrastructure and Event-based Architecture**
+- 🌱 I’m currently learning **Foundry and Smart Contract Devops**
 - 👨‍💻 All of my projects are available at [https://github.com/TEE2DWHY](https://github.com/TEE2DWHY)
 - 📫 How to reach me: [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)
 - ⚡ Fun fact: my favourite subject in school was chemistry and math, so i decided to be a programmer (analysis is everything😅).
