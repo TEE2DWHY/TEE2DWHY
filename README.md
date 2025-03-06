@@ -1,8 +1,8 @@
-# Hi 👋, I'm Olorunfemi Tayo
+# Hi 👋
 
-A passionate fullstack engineer and mobile app developer.
+I am a passionate fullstack and blockchain engineer.
 
-- 🔭 I’m currently working on a **Health-Care Based Solution App**
+- 🔭 I’m currently working on a **Decentralized Voting App**
 - 🌱 I’m currently learning **Serverless Infrastructure and Event-based Architecture**
 - 👨‍💻 All of my projects are available at [https://github.com/TEE2DWHY](https://github.com/TEE2DWHY)
 - 📫 How to reach me: [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)
@@ -28,6 +28,4 @@ A passionate fullstack engineer and mobile app developer.
     <img src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" alt="Hardhat" height="30"/>
 </div>
 
-### Olorunfemi's GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEE2DWHY&layout=compact&theme=radical)
 
