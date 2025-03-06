@@ -9,9 +9,9 @@ I am a passionate fullstack and blockchain engineer.
 - ⚡ Fun fact: my favourite subject in school was chemistry and math, so i decided to be a programmer (analysis is everything😅).
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tayo-olorunfemi-679836221)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tayo-olorunfemi-6b3033351)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/highzick3)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=github&logoColor=white)](https://codewithty.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=github&logoColor=white)](https://tayoolorunfemi.com)
 
 ### Languages and Tools:
 <div>
