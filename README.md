@@ -52,7 +52,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
 </div>
 
 ### **Tools & Technologies**
