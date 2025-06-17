@@ -1,31 +1,121 @@
-# Hi 👋
+# 👋 Hello, I'm Tayo Olorunfemi
 
-I am a passionate fullstack and blockchain engineer.
-
-- 🔭 I’m currently working on a **Decentralized Voting App**
-- 🌱 I’m currently learning **Foundry and Smart Contract Devops**
-- 👨‍💻 All of my projects are available at [https://github.com/TEE2DWHY](https://github.com/TEE2DWHY)
-- 📫 How to reach me: [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)
-- ⚡ Fun fact: my favourite subject in school was chemistry and math, so i decided to be a programmer (analysis is everything😅).
-
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tayo-olorunfemi-6b3033351)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/highzick3)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=github&logoColor=white)](https://tayoolorunfemi.com)
-
-### Languages and Tools:
-<div>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML5" height="30" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="CSS3" height="30" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" height="30" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-1175109.png" alt="React" height="30" />
-    <img src="https://everyday.codes/wp-content/uploads/2019/06/react-native-1024x631-1024x631.png" alt="React-Native" height="30"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-1-1174935.png" alt="Node.js" height="30" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB" height="30" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521773-2945272.png" alt="TypeScript" height="30" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/next-js-1175270.png" alt="Next.js" height="30" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvohZWkW4sfQdMlT2Q6LZGwo-rFAzGm_OwtA&s" alt="Solidity" height="30"/>
-    <img src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" alt="Hardhat" height="30"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Blockchain+Engineer;Smart+Contract+Developer;Building+the+Future+of+Web3;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2F81F7?style=for-the-badge&logoColor=white)](https://tayoolorunfemi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayo-olorunfemi-6b3033351)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/highzick3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacolorunfemi330@gmail.com)
 
+</div>
+
+---
+
+## 🚀 About Me
+
+**Passionate Full-Stack & Blockchain Engineer** with a love for creating innovative decentralized solutions. My journey from chemistry and mathematics to programming has given me a unique analytical perspective that I bring to every project.
+
+- 🔭 **Currently Building:** Decentralized Voting Application - revolutionizing democratic processes through blockchain
+- 🌱 **Learning Focus:** Advanced Foundry Framework & Smart Contract DevOps practices
+- 🧪 **Background:** Chemistry & Mathematics enthusiast turned code architect
+- 💡 **Philosophy:** "Analysis is everything" - bringing scientific rigor to software development
+
+---
+
+## 🛠️ Tech Arsenal
+
+### **Frontend Development**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
+</div>
+
+### **Backend & Database**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="Backend Skills" />
+</div>
+
+### **Blockchain & Web3**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain Skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat" />
+  <img src="https://docs.foundry.paradigm.xyz/images/foundry-banner.png" width="48" height="48" alt="Foundry" />
+</div>
+
+### **Mobile Development**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</div>
+
+### **Tools & Technologies**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEE2DWHY&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+---
+
+> 🔍 **Explore More:** Check out my [complete portfolio](https://github.com/TEE2DWHY?tab=repositories) for additional projects and contributions.
+
+---
+
+## 🎯 Current Focus Areas
+
+```javascript
+const currentGoals = {
+  learning: ["Advanced Foundry", "Smart Contract Security", "DeFi Protocols"],
+  building: ["Decentralized Voting Platform", "Web3 Authentication System"],
+  exploring: [
+    "Layer 2 Solutions",
+    "Cross-chain Interoperability",
+    "Zero-Knowledge Proofs",
+  ],
+};
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEE2DWHY&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💭 Philosophy
+
+> _"From molecules to smart contracts, from equations to algorithms - the analytical mindset that drew me to chemistry and mathematics now drives my passion for creating elegant, secure, and innovative software solutions."_
+
+---
+
+<div align="center">
+  
+### 🤝 Let's Connect & Collaborate!
+
+_Always open to discussing new opportunities, innovative projects, and the future of blockchain technology._
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</div>
