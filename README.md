@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **Full-Stack & Blockchain Engineer** with 5+ years of experience architecting innovative decentralized solutions and scalable web applications. I specialize in modern JavaScript frameworks, smart contract development, and Web3 integrations. My background in Chemistry and Mathematics brings analytical precision to every solution I build.
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 <table>
 <tr>
@@ -72,11 +72,11 @@
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-- **🔧 5+ Smart Contracts** deployed across various EVM networks
-- **⚡ 99.9% Uptime** maintained across production applications
-- **👥 Led teams** of 5+ developers on multiple Web3 projects
+- ** 5+ Smart Contracts** deployed across various EVM networks
+- ** 99.9% Uptime** maintained across production applications
+- ** Led teams** of 5+ developers on multiple Web3 projects
 
 ---
 
@@ -107,8 +107,8 @@ I'm always excited to discuss innovative blockchain projects, Web3 opportunities
 
 <div align="center">
   
-**📧Inquiries:** [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)  
-**🌐 Portfolio:** [tayoolorunfemi.com](https://tayoolorunfemi.com)
+** Inquiries:** [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)  
+** Portfolio:** [tayoolorunfemi.com](https://tayoolorunfemi.com)
 
 </div>
 
