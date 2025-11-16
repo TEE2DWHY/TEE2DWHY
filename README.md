@@ -74,9 +74,9 @@
 
 ## Key Achievements
 
-- ** 5+ Smart Contracts** deployed across various EVM networks
-- ** 99.9% Uptime** maintained across production applications
-- ** Led teams** of 5+ developers on multiple Web3 projects
+- **5+ Smart Contracts** deployed across various EVM networks
+- **99.9% Uptime** maintained across production applications
+- **Led teams** of 5+ developers on multiple Web3 projects
 
 ---
 
@@ -107,8 +107,8 @@ I'm always excited to discuss innovative blockchain projects, Web3 opportunities
 
 <div align="center">
   
-** Inquiries:** [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)  
-** Portfolio:** [tayoolorunfemi.com](https://tayoolorunfemi.com)
+**Inquiries:** [isaacolorunfemi330@gmail.com](mailto:isaacolorunfemi330@gmail.com)  
+**Portfolio:** [tayoolorunfemi.com](https://tayoolorunfemi.com)
 
 </div>
 
