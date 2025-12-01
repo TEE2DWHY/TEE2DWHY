@@ -223,7 +223,7 @@ _Complete Web Development Bootcamp_
 <td align="center">
 
 📚  
-**Favourite Subjects: Chemistry & Mathematics**  
+**Chemistry & Mathematics**  
 _Analytical Problem Solving_
 
 </td>
@@ -247,7 +247,7 @@ _Analytical Problem Solving_
 EMAIL="isaacolorunfemi330@gmail.com"
 PORTFOLIO="https://tayoolorunfemi.com"
 
-echo "Whether it's Websites, Mobile Apps,DeFi, NFTs, DAOs, or the next big thing in Web3..."
+echo "Whether it's DeFi, NFTs, DAOs, or the next big thing in Web3..."
 echo "I'm here to architect solutions that scale."
 echo ""
 echo "📧 Reach out: $EMAIL"
